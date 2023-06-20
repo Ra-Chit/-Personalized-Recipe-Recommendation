@@ -5,3 +5,5 @@ Dataset : https://www.kaggle.com/datasets/nehaprabhavalkar/indian-food-101
 
 Output:
 ![image](https://github.com/Ra-Chit/DISH-RECCOMENDATION-/assets/83090070/c215be2f-645e-4ebf-8ef9-4bc9ad8e7a04)
+
+![image](https://github.com/Ra-Chit/-Personalized-Recipe-Recommendation/assets/83090070/f8d810b6-6af0-49e6-85a4-df6521f17052)
